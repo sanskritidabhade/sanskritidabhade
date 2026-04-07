@@ -9,7 +9,7 @@ I am a CS student at Lakehead University with a focus on Business (+ Certificate
 ## 🚀 Current Focus
 - **Founder @ [Spot2Go.app](https://spot2go.app):** Building a B2B platform to streamline how people discover and interact with local cafes.
 - **Game Development:** Currently troubleshooting networking and AI behavior for an unannounced title.
-- **Academics:** Maintaining a CGPA of 84.60 and exploring the intersections of Linear Algebra and AI.
+- **Academics:** Dean's List Student.
 
 ## 🛠 Tech Stack
 - **Languages:** Java, Python, C++, JavaScript, C
