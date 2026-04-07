@@ -24,12 +24,6 @@ I am a CS student at Lakehead University with a focus on Business (+ Certificate
 
 ---
 
-## 📊 My GitHub Stats
-![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanskritiDabhade&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiDabhade&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/sanskritidabhade](#) - **Portfolio/Startup:** [spot2go.app](https://spot2go.app)
 - **Email:** [sanskritidabhade@gmail.com]
