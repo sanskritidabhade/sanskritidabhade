@@ -12,9 +12,9 @@ I am a CS student at Lakehead University with a focus on Business (+ Certificate
 - **Academics:** Maintaining a CGPA of 84.60 and exploring the intersections of Linear Algebra and AI.
 
 ## 🛠 Tech Stack
-- **Languages:** Java, Python, C++, JavaScript, C#
+- **Languages:** Java, Python, C++, JavaScript, C
 - **Frontend/Web:** React, HTML5, CSS3
-- **Tools & Platforms:** Git, GitHub Actions, Unity, Node.js
+- **Tools & Platforms:** Git, GitHub Actions, Node.js
 - **Business/Leadership:** Project Management, Sales Workflow, Team Leadership (7+ members)
 
 ## 🏆 Highlights
