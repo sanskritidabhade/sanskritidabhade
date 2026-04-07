@@ -25,7 +25,7 @@ I am a CS student at Lakehead University with a focus on Business (+ Certificate
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/sanskritidabhade](#) - **Portfolio/Startup:** [spot2go.app](https://spot2go.app)
+- **LinkedIn:** [linkedin.com/in/sanskritidabhade](#) - **Startup:** [spot2go.app](https://spot2go.app)
 - **Email:** [sanskritidabhade@gmail.com]
 
 *"Ideas are cheap. Execution is expensive. I’m here to collect."*
