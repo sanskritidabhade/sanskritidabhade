@@ -8,7 +8,7 @@ I am a CS student at Lakehead University with a focus on Business (+ Certificate
 
 ## 🚀 Current Focus
 - **Founder @ [Spot2Go.app](https://spot2go.app):** Building a B2B platform to streamline how people discover and interact with local cafes.
-- **Data Science** Currently working on Data Science projects (Big Data, Hadoop).
+- **Data Science:** Currently working on Data Science projects (Big Data, Hadoop).
 - **Academics:** Dean's List Student.
 
 ## 🛠 Tech Stack
